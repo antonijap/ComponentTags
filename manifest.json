@@ -1,5 +1,5 @@
 {
-	"name": "Vue Plugin Template",
+	"name": "Component Tags",
 	"api": "1.0.0",
 	"main": "dist/code.js",
 	"ui": "dist/ui.html",

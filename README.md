@@ -1,4 +1,4 @@
-# Vue Plugin Template for Figma
+# Component Tags
 
 ## Features:
 
